@@ -15,7 +15,7 @@ clear
 echo ""
 echo ""
 echo -e "\e[32m                ============================================\e[m "
-echo -e "\e[31m                [\e[32m★\e[31m]\e[93m Join us on Telegram : @OnlineHacking\e[31m [\e[32m★\e[31m]\e[m "
+echo -e "\e[31m                [\e[32m★\e[31m]\e[93m Join us on Telegram : \e[95m@OnlineHacking\e[31m [\e[32m★\e[31m]\e[m "
 echo -e "\e[32m                ============================================\e[m " 
 
 # check the internet connectivity 
@@ -260,9 +260,9 @@ printf "\e[1;31m[\e[0m\e[1;92m03\e[0m\e[1;31m] \e[0m\e[1;48;5;200mBonusChallenge
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;40m \e[1;37;42m\e[0m          \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;40m\e[0m            \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;38;5;209m\e[40m\e[0m\n" 
 echo
-printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;93;40m\e[0m                \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;43mIPFinder\e[0m          \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;40m\e[91m\e[94m\e[93m\e[92m\e[0m\n"  
+printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;93;40m\e[0m                \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;43m\e[0m          \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;40m\e[91m\e[94m\e[93m\e[92m\e[0m\n"  
 echo
-printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;40m\e[94m\e[91m\e[93m\e[94m\e[92m\e[91m\e[0m             \e[1;31m[\e[0m\e[1;92m17\e[0m\e[1;31m] \e[0m\e[1;37;101m\e[0m            \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;48;5;129m\e[0m\n"           
+printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;40m\e[94m\e[91m\e[93m\e[94m\e[92m\e[91m\e[0m             \e[1;31m[\e[0m\e[1;92m\e[0m\e[1;31m] \e[0m\e[1;37;101m\e[0m            \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;48;5;129m\e[0m\n"           
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;107m\e[30m\e[106\e[0m              \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;48;5;91m\e[0m          \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;48;5;236m\e[0m\n"
 echo
@@ -270,9 +270,9 @@ printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;91;107m\e[0m            \e[
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;48;5;200m\e[0m    \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;48;5;4m\e[0m          \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;48;5;89m\e[m\n"
 echo
-printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;40m\e[0m             \e[1;31m[\e0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;46m\e[0m           \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;48;5;197m\e[m\n"
+printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;40m\e[0m             \e[1;31m\e0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;46m\e[0m           \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;48;5;197m\e[m\n"
 echo
-printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;42m\e[0m           \e[1;31m[\e0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;34;103m\e[0m          \e[1;31m[\e[0m\e[1;92m99\e[0m\e[1;31m] \e[0m\e[1;91;102mExit\e[0m\n"
+printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;42m\e[0m           \e[1;31m\e0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;34;103m\e[0m          \e[1;31m[\e[0m\e[1;92m99\e[0m\e[1;31m] \e[0m\e[1;91;102mExit\e[0m\n"
 echo " "
 echo -e "\e[1;96m==================================================================\e[m "
 }
