@@ -1,0 +1,149 @@
+*{padding: 0; margin: 0;}
+body{
+	background: #ffffff;
+	font-family: arial;
+}
+.container{
+	margin-top: 50px;
+}
+table{
+	width: 450px;
+	margin: auto;
+	padding: 40px 40px 60px 40px;
+	background: #fff;
+	border:1px solid #9e9e9e8f;
+	margin-top: 20px;
+	border-radius:10px;
+	transition: border 2s;
+}
+p.google{
+	margin-bottom: 70px;
+}
+.login, .google{
+	color:#212121;
+}
+.login{
+	margin-bottom: 5px;
+	font-family: arial;
+	font-size: 23px;
+}
+input[type=email]{
+	width: 100%;
+	border:none;
+	border-bottom: 1px solid #E2E2E2;
+	padding-bottom: 10px;
+	color:  #666;
+	font-size: 17px;
+}
+input[type=email]:hover{
+	border-bottom: 2px solid #4285F4;
+	transition: border-bottom 1s;
+	
+}
+input[type=email]:focus{
+	border: 2px solid #4285F4;
+}
+input[type=password]{
+	width: 100%;
+	border:none;
+	border-bottom: 1px solid #E2E2E2;
+	padding-bottom: 10px;
+	color:  #666;
+	font-size: 17px;
+}
+input[type=password]:hover{
+	border-bottom: 2px solid #4285F4;
+	transition: border-bottom 1s;
+	
+}
+input[type=password]:focus{
+	border: 2px solid #4285F4;
+}
+img{
+	width: 70px;
+	margin-bottom: 20px;
+}
+p.email{
+	padding: 30px 0 40px 0;
+}
+a{
+	color: #4285F4;
+	text-decoration: none;
+}
+.kiri{
+	float: left;
+}
+.kanan{
+	float: right;
+}
+.kanan input[type=submit]{
+	background: #4285F4;
+	padding: 10px 20px;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0px 1px 5px #666;
+}
+input[type=submit]:hover{
+	cursor: pointer;
+	background: orange;
+	transition: background 1s;
+}
+.foot{
+	width: 430px;
+	margin: auto;
+	overflow: hidden;
+	margin-top: 20px;
+	color: #666;
+}
+.left{
+	float: left;
+}
+.left a{
+	color:#212121;
+}
+.right{
+	float: right;
+}
+ul{
+	list-style: none;
+}
+ul li{
+	float: left;
+
+}
+/*segitiga*/
+.triangle{
+	margin:8px;
+	float: right;
+	cursor: pointer;
+}
+.demo-arrow-down{
+	width: 0; 
+	height: 0; 
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;	
+	border-top: 5px solid #333;
+}
+
+@media(max-width:720px){
+.container{
+	margin-top: 50px;
+}
+table{
+	width: 98%;
+	margin: auto;
+	padding: 20px 40px 40px 40px;
+	background: #fff;
+	border:1px solid #9e9e9e8f;
+	margin-top: 20px;
+	border-radius:5px;
+}
+.foot{
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+	margin-top: 20px;
+	color: #666;
+}
+}

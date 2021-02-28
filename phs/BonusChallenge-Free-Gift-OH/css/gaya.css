@@ -1,0 +1,598 @@
+	body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0}
+*{outline:none}
+input,select{outline:none}
+table{border-collapse:collapse;border-spacing:0}
+fieldset,img{border:0}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal}
+ol,ul{list-style:none}
+caption,th{text-align:left}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}
+q:before,q:after{content:''}
+abbr,acronym{border:0;font-variant:normal}
+sup{vertical-align:text-top}
+a{text-decoration:none;outline: none;}
+sub{vertical-align:text-bottom}
+input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit}
+input,textarea,select{*font-size:100%}
+
+a:hover,a:active,a:visited,a:link,a:focus{-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color: transparent;outline:none;}
+.pr {position:relative;}
+.pa {position:absolute;}
+.ov_hi{overflow: hidden;}
+.db {display:block;text-indent:-999em;}
+body{width: 100%;height: 100%;}
+.c:after{content:" "; clear:both; height:0; visibility:hidden; display:block;}
+.c{*zoom:1;}
+.fl {float: left;}
+.fr {float: right;}
+select {border: solid 1px #000;appearance:none;-moz-appearance:none;-webkit-appearance:none;background:red;padding-right: 14px;}
+select::-ms-expand { display: none; }
+/*bg*/
+@font-face {
+    font-family: AGENCYB;
+    src: url('../font/AGENCYB.TTF');
+}
+@font-face {
+    font-family: AGENCYR;
+    src: url('../font/AGENCYR.TTF');
+}
+@font-face {
+    font-family: HEAD;
+    src: url('../font/HEADLINERNO.45.DEMO.TTF');
+}
+body .font-yb{
+    font-family: AGENCYB;
+}
+body .font-yr{
+    font-family: AGENCYR;
+}
+body .font-he{
+    font-family: HEAD;
+}
+body{
+    font-family: AGENCYB,AGENCYR,HEAD;
+}
+
+.wrap{width: 100%;height: 100%;}
+.bg1{width:7.5rem;
+    height:21rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/bg1.jpg) no-repeat;
+    overflow: hidden;
+    background-size: 100%;
+    position: relative;
+}
+.bg1.on{width:7.5rem;
+    height:50.80rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/bg2.jpg) no-repeat;
+    overflow: hidden;
+    background-size: 100%;
+    position: relative;
+}
+.top{
+    width:7.5rem;
+    height:0.88rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/top.jpg) no-repeat;
+    overflow: hidden;
+    background-size: 100%;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 99;
+}
+.shop_number{
+    width:4.14rem;
+    height:0.5rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/number.png) no-repeat;
+    background-size: 100%;
+    position: absolute;
+    left: 1.68rem;
+    top: 0.21rem;
+    font-size: 0;
+}
+.shop_number p{
+    color: #ffefad;
+    font-size: 0.36rem;
+    line-height: 0.5rem;
+    height: 0.5rem;
+    width: 2.95rem;
+    padding-left: 0.07rem;
+    display: inline-block;
+}
+.shop_number  span{
+    display: block;
+    color: #780707;
+    font-size: 0.36rem;
+    width: 1.1rem;
+    height: 0.39rem;
+    position: absolute;
+    right: 0.09rem;
+    top: 0.05rem;
+    line-height: 0.39rem;
+    text-align: center;
+}
+.close{
+    display: block;
+    text-indent: -9999rem;
+    width: 0.88rem;
+    height: 0.88rem;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.tab{
+    width:7.5rem;
+    height:0.68rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/tab1.png) no-repeat;
+    overflow: hidden;
+    background-size: 100%;
+    position: fixed;
+    left: 0px;
+    top: 0.88rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 99;
+}
+.tab a{
+    display: block;
+    width: 33%;
+    height: 100%;
+    text-indent: -999rem;
+}
+.banner{
+    width: 7.5rem;
+    height: 4.17rem;
+    margin-top: 1.56rem;
+}
+.banner img{
+    width: 100%;
+    height: 100%;
+}
+.sec1{
+    width: 100%;
+    position: relative;
+}
+.sec h2{
+    height: 0.9rem;
+    width: 100%;
+    font-size: 0.51rem;
+    text-align: center;
+    color: #e99f00;
+    line-height: 0.9rem;
+}
+.ul_shop{
+    width: 5.92rem;
+    margin: 0 auto;
+    margin-top:0.33rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap :wrap;
+}
+.ul_shop li{
+    width: 2.77rem;
+    height: 3.35rem;
+    position: relative;
+
+}
+.box{
+    width: 2.77rem;
+    height: 2.26rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/box.png) no-repeat;
+    background-size: 100%;
+}
+.box img{
+    /*width: 2.77rem;
+    height: 2.13rem;
+    position: absolute;
+    left: 0px;
+    top: 0.14rem;*/
+    width: 1.6rem;
+    height: 1.6rem;
+    position: absolute;
+    left: 20%;
+    top: 0.6rem;
+}
+.box p{
+    font-size: 0.3rem;
+    text-align: center;
+    width: 100%;
+    color: #3e2501;
+    position: absolute;
+    left: 0px;
+    line-height: 0.3rem;
+    height: 0.3rem;
+    top: 0.21rem;
+}
+.hot{
+    display: block;
+    width: 0.58rem;
+    height: 0.57rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/hot.png) no-repeat;
+    background-size: 100%;
+    position: absolute;
+    left: 0.03rem;
+    top: 0.17rem;
+}
+.redeem{
+    display: block;
+    width: 2.77rem;
+    height: 0.52rem;
+    margin-top: 1px;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/redee.png) no-repeat;
+    background-size: 100%;
+}
+.select{
+    display: block;
+    width: 2.77rem;
+    height: 0.52rem;
+    margin-top: 1px;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/select.png) no-repeat;
+    background-size: 100%;
+}
+.message{
+    font-family: AGENCYR;
+    width: 100%;
+    height: 0.55rem;
+    line-height: 0.55rem;
+    text-align: center;
+    font-size: 0.24rem;
+    color: #ffffff;
+}
+#dia1{
+    display: block;
+    width: 3.68rem;
+    height: 2.82rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/pop1.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+}
+.dia-close{
+    display: block;
+    width: 0.36rem;
+    height: 0.36rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/close.png) no-repeat;
+    background-size: 100%;
+    position: absolute;
+    right: -0.49rem;
+    top: -0.3rem;
+    text-indent: -999rem;
+}
+.dia-fb{
+    display: block;
+    width: 0.36rem;
+    height: 0.36rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/fb.png) no-repeat;
+    background-size: 100%;
+    position: absolute;
+    right: -0.49rem;
+    top: -0.3rem;
+    text-indent: -999rem;
+}
+#dia1 .item{
+    font-family: AGENCYR;
+    font-size: 0.3rem;
+    text-align: center;
+    width: 100%;
+    color: #3e2501;
+    position: absolute;
+    left: 0px;
+    line-height: 0.3rem;
+    height: 0.3rem;
+    top: 0.26rem;
+}
+#dia1 img{
+    display: block;
+    /*width: 2.3rem;
+    height: 1.07rem;*/
+    width: 0.95rem;
+    height: 0.95rem;
+    margin: 0 auto;
+    position: absolute;
+    left: 68%;
+    margin-left: -1.15rem;
+    top: 0.63rem;
+}
+.cost {
+    width: 100%;
+    font-family: AGENCYR;
+    font-size: 0.22rem;
+    color: #313130;
+    text-align: center;
+    position: absolute;
+    top: 1.6rem;
+    left: 0px;
+}
+input{outline:none;background:none;
+    outline:none;
+    border:none;}
+.cost input{
+    display: inline-block;
+    width: 0.4rem;
+    height: 0.26rem;
+    line-height: 0.26rem;
+    border-radius: 0;
+    -webkit-appearance : none ;
+    border-bottom: 1px solid #313130;
+}
+.dia-ok{
+    width: 1.82rem;
+    height: 0.52rem;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    text-indent: -999rem;
+}
+.dia-cancel{
+    width: 1.82rem;
+    height: 0.52rem;
+    position: absolute;
+    left: 1.87rem;
+    bottom: 0px;
+    text-indent: -999rem;
+}
+#dia2,#dia3{
+    display: block;
+    width: 3.68rem;
+    height: 2.82rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/box.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+}
+.title{
+    font-family: AGENCYR;
+    font-size: 0.27rem;
+    text-align: center;
+    width: 100%;
+    color: #313130;
+    position: absolute;
+    left: 0px;
+    line-height: 0.41rem;
+    height: 0.41rem;
+    top: 1.32rem;
+}
+.dia-ok2{
+    width: 100%;
+    height: 0.53rem;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
+
+/* sec2 */
+.sec2_message{
+    height: 1.71rem;
+    padding-top: 0.43rem;
+    padding-left: 0.29rem;
+
+}
+.sec2_message p{
+    font-family: AGENCYR;
+    font-size: 0.3rem;
+    color: #ffffff;
+    text-indent: 0.2rem;
+    line-height: 0.37rem;
+}
+.table{
+    width: 6.4rem;
+    height: 4.99rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/table.png) no-repeat;
+    background-size: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.table table{
+    width: 100%;
+    height: 4.87rem;
+    margin-top: 0.14rem;
+    font-family: AGENCYR;
+    color: #3e2501;
+}
+.table table th{
+    height: 0.37rem;
+    font-size: 0.25rem;
+    text-align: center;
+    font-weight: bold;
+}
+.table table td{
+    height: 0.42rem;
+    line-height: 0.42rem;
+    font-size: 0.25rem;
+    text-align: center;
+}
+.table table .tr{
+    /* border-bottom:0.03rem solid #000000; */
+    height: 0.45rem;
+}
+.title-p{
+    width: 3.11rem;
+    height: 0.62rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/t1.png) no-repeat;
+    background-size: 100%;
+    margin: 0 auto;
+    margin-top: 0.22rem;
+}
+.sec3_message{
+    width: 6.9rem;
+    margin: 0 auto;
+}
+
+.sec3_message p{
+    font-family: AGENCYR;
+    font-size: 0.25rem;
+    color: #ffffff;
+    line-height: 0.37rem;
+    position: relative;
+    text-indent: 0.4rem;
+    margin-top: 0.1rem;
+}
+
+.sec3_message p span{
+    display: inline-block;
+    width: 0.28rem;
+    height: 0.24rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/span.png) no-repeat;
+    background-size: 100%;
+    font-size: 0.25rem;
+    font-weight: bold;
+    font-family: AGENCYR;
+    text-indent: 0.1rem;
+    line-height: 0.24rem;
+    position: absolute;
+    left: 0px;
+    top: 0.05rem;
+    color: #312401;
+}
+.sec3_message p .span1{
+    text-indent: 0.07rem;
+}
+.sec3 .blod{
+    display: block;
+    width: 6.9rem;
+    font-family: AGENCYR;
+    color: #eab62e;
+    font-size: 0.25rem;
+    font-weight: bold;
+    margin: 0 auto;
+    text-indent: 0.4rem;
+    line-height: 0.37rem;
+}
+.table2{
+    width: 6.9rem;
+    height: 10rem;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 0.1rem;
+}
+.table2 .top_title{
+    width: 6.9rem;
+    height: 0.12rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/top.png) no-repeat;
+    background-size: 100%;
+}
+.table2 table{
+    font-family: AGENCYR;
+    width: 6.9rem;
+    font-size: 0.2rem;
+    color: #f4da40;
+    line-height: 0.27rem;
+    height: 0.27rem;
+    margin:  0 auto;
+    border-top:1px solid #967424;
+    border-left: 1px solid #967424;
+    margin-bottom: 0.2rem;
+}
+.table2 table th,.table2 table td{
+    font-size: 0.2rem;
+    color: #f4da40;
+    text-align: center;
+    border-right:1px solid #967424;
+    border-bottom: 1px solid #967424;
+}
+
+.title-p2{
+    width: 3.96rem;
+    height: 0.62rem;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/t2.png) no-repeat;
+    background-size: 100%;
+    margin: 0 auto;
+    margin-top: 0.12rem;
+}
+.rule{
+    width: 6.91rem;
+    margin: 0 auto;
+    padding-top: 0.1rem;
+}
+.rule p{
+    font-family: AGENCYR;
+    font-size: 0.25rem;
+    color: #ffffff;
+    text-indent: 0.46rem;
+    line-height: 0.37rem;
+    position: relative;
+}
+.rule .q {
+    color: #f3dd90;
+}
+.q span{
+    display: block;position: absolute;
+    left: 0px;
+    top: 0.04rem;
+    width: 0.39rem;
+    height: 0.26rem;
+    line-height: 0.26rem;
+    font-size: 0.25rem;
+    color: #312401;
+    text-align: center;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/Q.png) no-repeat;
+    background-size: 100%;
+    text-indent:0rem;
+}
+.a span{
+    display: block;position: absolute;
+    left: 0px;
+    top: 0.04rem;
+    width: 0.39rem;
+    height: 0.26rem;
+    line-height: 0.26rem;
+    font-size: 0.25rem;
+    color: #312401;
+    text-align: center;
+    background: url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/A.png) no-repeat;
+    background-size: 100%;
+    text-indent:0rem;
+}
+.rule .ppp{
+    text-indent: 0rem;
+}
+.sec1_ts{
+    font-family: AGENCYR;
+    font-size: 0.28rem;
+    text-align: center;
+    width: 100%;
+    line-height: 0.28rem;
+    font-weight: bold;
+    color: #e8af2a;
+}
+
+input[type=button], input[type=submit], input[type=file], button { cursor: pointer; -webkit-appearance: none; }
+
+.gray{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.horizon{width:100%;height:100%;background:#32373b;position:fixed;left:0;top:0;z-index:10001;display:none;}
+.horizon-box{width:100%;height:3rem;position:absolute;top:50%;left:0;margin-top:-1.5rem;}
+.horizon-pic{width:1.5rem;height:2.3rem;margin:0 auto;text-align:center;}
+.horizon span{font-size:0.22rem;display:block;color:#ffd40a;text-align:center;}
+.horizon i{width:1.5rem;height:2.27rem;background:url(../overseas-img.qq.com/images/pubgmobile/act/a20190107point/hengping.png) 0 0 no-repeat;background-size:1.5rem 2.27rem;margin:0 auto;-webkit-animation: maskAni 1.5s ease infinite alternate;position:static;display:block;}
+@-webkit-keyframes maskAni{0% {-webkit-transform:rotate(-90deg);}30% {-webkit-transform:rotate(-90deg);}70%{-webkit-transform:rotate(0deg);}100% {-webkit-transform:rotate(0deg);}}
+@media screen and (orientation:landscape) {.horizon{display:block}}
+
+/*???????????*/
+@-webkit-keyframes fadeInUp{
+    0%{opacity:1;
+        -webkit-transform:translateY(10px)}
+    100%{opacity:0;
+        -webkit-transform:translateY(-20px)}
+}
+@-moz-keyframes fadeInUp{
+    0%{opacity:1;
+        -moz-transform:translateY(10px)}
+    100%{opacity:0;
+        -moz-transform:translateY(-20px)}
+}
+@-webkit-keyframes fadeInUp1{
+    0%{opacity:1;
+        -webkit-transform:translateY(0)}
+    100%{opacity:0;
+        -webkit-transform:translateY(-40px)}
+}
+@-moz-keyframes fadeInUp1{
+    0%{opacity:1;
+        -moz-transform:translateY(0)}
+    100%{opacity:0;
+        -moz-transform:translateY(-40px)}
+}

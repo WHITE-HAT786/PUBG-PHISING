@@ -1,0 +1,59 @@
+[06-Sep-2020 18:58:42 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 27
+[06-Sep-2020 18:58:42 Asia/Jakarta] PHP Warning:  require(js-zone/api.php): failed to open stream: No such file or directory in /home/ofhycuda/public_html/Admins/newsc/check.php on line 39
+[06-Sep-2020 18:58:42 Asia/Jakarta] PHP Warning:  require(js-zone/api.php): failed to open stream: No such file or directory in /home/ofhycuda/public_html/Admins/newsc/check.php on line 39
+[06-Sep-2020 18:58:42 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'js-zone/api.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ofhycuda/public_html/Admins/newsc/check.php on line 39
+[06-Sep-2020 19:00:09 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 27
+[06-Sep-2020 19:12:25 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 27
+[06-Sep-2020 19:13:59 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 17
+[06-Sep-2020 19:14:15 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 17
+[06-Sep-2020 08:24:04 America/New_York] PHP Notice:  Undefined index: nick in /home/ofhycuda/public_html/Admins/newsc/processing.php on line 3
+[06-Sep-2020 08:28:33 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ofhycuda/public_html/Admins/newsc/check.php on line 63
+[06-Sep-2020 19:30:08 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 17
+[06-Sep-2020 19:31:53 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 18
+[06-Sep-2020 08:33:47 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/ofhycuda/public_html/Admins/newsc/check.php on line 65
+[06-Sep-2020 19:34:46 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 19
+[06-Sep-2020 19:35:51 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 19
+[06-Sep-2020 19:35:52 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/ofhycuda/public_html/Admins/newsc/check.php on line 16
+[06-Sep-2020 19:35:52 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/ofhycuda/public_html/Admins/newsc/check.php on line 17
+[06-Sep-2020 19:35:52 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/ofhycuda/public_html/Admins/newsc/check.php on line 18
+[06-Sep-2020 19:35:52 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 19
+[06-Sep-2020 19:35:52 Asia/Jakarta] PHP Notice:  Undefined index: playid in /home/ofhycuda/public_html/Admins/newsc/check.php on line 20
+[06-Sep-2020 19:35:52 Asia/Jakarta] PHP Notice:  Undefined index: phone in /home/ofhycuda/public_html/Admins/newsc/check.php on line 21
+[06-Sep-2020 19:35:52 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/ofhycuda/public_html/Admins/newsc/check.php on line 22
+[06-Sep-2020 19:35:52 Asia/Jakarta] PHP Notice:  Undefined index: tier in /home/ofhycuda/public_html/Admins/newsc/check.php on line 23
+[06-Sep-2020 19:35:52 Asia/Jakarta] PHP Notice:  Undefined index: rpt in /home/ofhycuda/public_html/Admins/newsc/check.php on line 24
+[06-Sep-2020 19:35:52 Asia/Jakarta] PHP Notice:  Undefined index: rpl in /home/ofhycuda/public_html/Admins/newsc/check.php on line 25
+[06-Sep-2020 19:36:45 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 19
+[06-Sep-2020 19:37:19 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/ofhycuda/public_html/Admins/newsc/check.php on line 16
+[06-Sep-2020 19:37:19 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/ofhycuda/public_html/Admins/newsc/check.php on line 17
+[06-Sep-2020 19:37:19 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/ofhycuda/public_html/Admins/newsc/check.php on line 18
+[06-Sep-2020 19:37:19 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 19
+[06-Sep-2020 19:37:19 Asia/Jakarta] PHP Notice:  Undefined index: playid in /home/ofhycuda/public_html/Admins/newsc/check.php on line 20
+[06-Sep-2020 19:37:19 Asia/Jakarta] PHP Notice:  Undefined index: phone in /home/ofhycuda/public_html/Admins/newsc/check.php on line 21
+[06-Sep-2020 19:37:19 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/ofhycuda/public_html/Admins/newsc/check.php on line 22
+[06-Sep-2020 19:37:19 Asia/Jakarta] PHP Notice:  Undefined index: tier in /home/ofhycuda/public_html/Admins/newsc/check.php on line 23
+[06-Sep-2020 19:37:19 Asia/Jakarta] PHP Notice:  Undefined index: rpt in /home/ofhycuda/public_html/Admins/newsc/check.php on line 24
+[06-Sep-2020 19:37:19 Asia/Jakarta] PHP Notice:  Undefined index: rpl in /home/ofhycuda/public_html/Admins/newsc/check.php on line 25
+[06-Sep-2020 19:41:51 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 27
+[06-Sep-2020 19:41:51 Asia/Jakarta] PHP Warning:  require(js-zone/api.php): failed to open stream: No such file or directory in /home/ofhycuda/public_html/Admins/newsc/check.php on line 39
+[06-Sep-2020 19:41:51 Asia/Jakarta] PHP Warning:  require(js-zone/api.php): failed to open stream: No such file or directory in /home/ofhycuda/public_html/Admins/newsc/check.php on line 39
+[06-Sep-2020 19:41:51 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'js-zone/api.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ofhycuda/public_html/Admins/newsc/check.php on line 39
+[06-Sep-2020 19:43:20 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 17
+[06-Sep-2020 19:46:38 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 16
+[06-Sep-2020 19:46:38 Asia/Jakarta] PHP Warning:  require(js-zone/api.php): failed to open stream: No such file or directory in /home/ofhycuda/public_html/Admins/newsc/check.php on line 29
+[06-Sep-2020 19:46:38 Asia/Jakarta] PHP Warning:  require(js-zone/api.php): failed to open stream: No such file or directory in /home/ofhycuda/public_html/Admins/newsc/check.php on line 29
+[06-Sep-2020 19:46:38 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'js-zone/api.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ofhycuda/public_html/Admins/newsc/check.php on line 29
+[06-Sep-2020 19:47:51 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 16
+[06-Sep-2020 08:47:52 America/New_York] PHP Notice:  Undefined index: nick in /home/ofhycuda/public_html/Admins/newsc/processing.php on line 3
+[06-Sep-2020 10:00:59 America/New_York] PHP Notice:  Undefined index: nick in /home/ofhycuda/public_html/Admins/newsc/processing.php on line 3
+[06-Sep-2020 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 16
+[06-Sep-2020 10:01:50 America/New_York] PHP Notice:  Undefined index: nick in /home/ofhycuda/public_html/Admins/newsc/processing.php on line 3
+[06-Sep-2020 23:11:29 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 16
+[06-Sep-2020 12:11:31 America/New_York] PHP Notice:  Undefined index: nick in /home/ofhycuda/public_html/Admins/newsc/processing.php on line 3
+[06-Sep-2020 23:20:29 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 16
+[06-Sep-2020 12:20:30 America/New_York] PHP Notice:  Undefined index: nick in /home/ofhycuda/public_html/Admins/newsc/processing.php on line 3
+[06-Sep-2020 23:53:02 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 16
+[06-Sep-2020 12:53:03 America/New_York] PHP Notice:  Undefined index: nick in /home/ofhycuda/public_html/Admins/newsc/processing.php on line 3
+[07-Sep-2020 00:02:25 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/check.php on line 16
+[07-Sep-2020 00:02:25 Asia/Jakarta] PHP Notice:  Undefined index: nickname in /home/ofhycuda/public_html/Admins/newsc/system/geo.php on line 9
+[06-Sep-2020 13:02:26 America/New_York] PHP Notice:  Undefined index: nick in /home/ofhycuda/public_html/Admins/newsc/processing.php on line 3
