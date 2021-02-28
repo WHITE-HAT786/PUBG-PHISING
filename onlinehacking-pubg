@@ -320,7 +320,7 @@ ash1() {
 			    echo 
 			    echo -e "\e[96m========================\e[92m VICTIM INFORMATION \e[96m========================= \e[93m"  
 			    echo 
-			    echo -e "\e[96m========================\e[92m    SHARK © 2020    \e[96m=========================\e[92m"
+			    echo -e "\e[96m========================\e[92m    SUMAN © 2021    \e[96m=========================\e[92m"
 			    echo
 			    touch log.txt >> /dev/null 2>&1
 			    tail -f log.txt 
@@ -353,7 +353,7 @@ ash1() {
 			   echo 
 			   echo -e "\e[96m========================\e[92m VICTIM INFORMATION \e[96m========================= \e[93m"  
 			   echo 
-			   echo -e "\e[96m========================\e[92m    SHARK © 2020    \e[96m========================= \e[92m"
+			   echo -e "\e[96m========================\e[92m    SUMAN © 2021    \e[96m========================= \e[92m"
                            echo 
                            tail -f cok.txt | grep -e "id" -e "password"      
 
@@ -385,7 +385,7 @@ ash1() {
 			   echo 
 			   echo -e "\e[96m========================\e[92m VICTIM INFORMATION \e[96m========================= \e[93m"  
 			   echo 
-	        	   echo -e "\e[96m========================\e[92m    SHARK © 2020    \e[96m========================= \e[92m"
+	        	   echo -e "\e[96m========================\e[92m    SUMAN © 2021    \e[96m========================= \e[92m"
 			   echo
 			   tail -f fbcracked.txt
 			   
