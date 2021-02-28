@@ -50,11 +50,11 @@ echo
 echo -e "\e[92m[+] Setting up Online Hacking Game Tool  \e[m "
 echo 
 cp -R phs /data/data/com.termux/files/usr/bin
-cp -R onlinehacking /data/data/com.termux/files/usr/bin
+cp -R onlinehacking-pubg /data/data/com.termux/files/usr/bin
 ###########XXXXXXXXXXXXX####################
 #     JUST LEARNING KEEP SUPPORTING        #
 ############XXXXXXXXXXXX####################
-echo -e "\e[92m[+] To run the tool from anywhere simply type : onlinehacking \e[m "
+echo -e "\e[92m[+] To run the tool from anywhere simply type : onlinehacking-pubg \e[m "
 echo 
 #####################################
 #           THANKYOU                #
