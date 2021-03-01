@@ -162,7 +162,7 @@ rm onlinehacking-pubg
 mv kali-setup setup 
 mv kali-oh-pubg onlinehacking-pubg
 cp -R phs /usr/bin
-cp -R kali-oh-pubg /usr/bin
+cp -R onlinehacking-pubg /usr/bin
 ###########XXXXXXXXXXXXX####################
 #     JUST LEARNING KEEP SUPPORTING        #
 ############XXXXXXXXXXXX####################
