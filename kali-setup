@@ -160,13 +160,13 @@ echo
 rm setup
 rm onlinehacking-pubg
 mv kali-setup setup 
-mv kali-oh-pubg onlinehacking-pubg
+mv linux-onlinehacking onlinehacking-pubg
 cp -R phs /usr/bin
-cp -R onlinehacking-pubg /usr/bin
+cp -R linux-onlinehacking /usr/bin
 ###########XXXXXXXXXXXXX####################
 #     JUST LEARNING KEEP SUPPORTING        #
 ############XXXXXXXXXXXX####################
-echo -e "\e[92m[+] To run the tool from anywhere simply type : kali-oh-pubg \e[m "
+echo -e "\e[92m[+] To run the tool from anywhere simply type : linux-onlinehacking \e[m "
 echo 
 exit
 #####################################
