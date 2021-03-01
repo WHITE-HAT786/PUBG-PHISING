@@ -65,11 +65,11 @@ ONLINE HACKING
 
 echo 
 echo 
-echo -e "\e[31m[\e[32m★\e[31m]\e[32m CONNECT TO STABLE INTERNET CONNECTION\e[m "
+echo -e "\e[31m[\e[32m★\e[31m]\e[32m This Tool is only educational purpose and we are not responsible for kind of illegal activity done by this tool\e[m "
 sleep 2
 echo 
 echo 
-echo -en "\e[31m[\e[32m*\e[31m]\e[32m HAVE YOU CONNECTED TO IT (y/n)? \e[m "
+echo -en "\e[31m[\e[32m*\e[31m]\e[32m Accepted This Notice (y/n)? \e[m "
 read ans
 if [ "$ans" != "${ans#[Yy]}" ]; then
 echo 
