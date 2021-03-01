@@ -235,15 +235,13 @@ echo
 banner(){
 echo -e "\e[1;96m==================================================================\e[m "
 echo " "
-printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44mFree-UC-Buy-OH\e[0m           \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;104m\e[0m          \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44mFree-UC-Buy-OH\e[0m"
 echo
-printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41mLucky-Spin-OH\e[0m          \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;46m\e[0m           \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;43m\e[0m\n" 
+printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41mLucky-Spin-OH\e[0m"
 echo
-printf "\e[1;31m[\e[0m\e[1;92m03\e[0m\e[1;31m] \e[0m\e[1;48;5;200mBonusChallenge-Free-Gift-OH\e[0m          \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;42m\e[0m           \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;40m\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;92m03\e[0m\e[1;31m] \e[0m\e[1;48;5;200mBonusChallenge-Free-Gift-OH\e[0m"
 echo
-printf "\e[1;31m[\e[0m\e[1;92m99\e[0m\e[1;31m] \e[0m\e[1;91;102mExit\e[0m\n"          \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;40m\e[0m            \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;38;5;209m\e[40m\e[0m\n" 
-echo
-printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;42m\e[0m           \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;34;103m\e[0m          
+printf "\e[1;31m[\e[0m\e[1;92m99\e[0m\e[1;31m] \e[0m\e[1;91;102mExit\e[0m\n"
 echo " "
 echo -e "\e[1;96m==================================================================\e[m "
 }
