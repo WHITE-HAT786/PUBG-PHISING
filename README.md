@@ -43,13 +43,11 @@ PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICT
 
 * php
 
-
-
 * ngrok
 
 ## FEATURES :
 
-* [+] Real camera hacking !
+* [+] Real hacking of Account !
 
 * [+] Updated maintainence !
 
@@ -69,7 +67,7 @@ PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICT
 
 * `pkg install git -y`
 
-* `pip install lolcat`
+* `pkg install php`
 
 * `git clone https://github.com/WHITE-HAT786/saycheese.git`
 
