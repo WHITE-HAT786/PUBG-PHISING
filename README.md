@@ -5,17 +5,15 @@
 
 </p>
 
+</p>
 <p align="center">
-
-<a href="https://github.com/WHITE-HAT786/saycheese.git"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Saycheese-green.svg"></a>
-
-<a href="https://github.com/WHITE-HAT786/saycheese.git"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-
-<a href="https://github.com/WHITE-HAT786/saycheese.git"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-
+<a href="https://github.com/WHITE-HAT786/saycheese/blob/main/README.md"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Saycheese-green.svg"></a>
+<a href="https://github.com/WHITE-HAT786/saycheese/blob/main/README.md"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://github.com/WHITE-HAT786/saycheese/blob/main/README.md"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
 <p align="center">
+
 <img src="https://i.ibb.co/MRKpZXJ/images-2021-03-02-T210907-691.jpg" alt="images-2021-03-02-T210907-691" border="0"></a>
 
 </p>
