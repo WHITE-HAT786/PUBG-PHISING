@@ -159,8 +159,8 @@ echo -e "\e[92m[+] Setting up Online Hacking Game Tool \e[m "
 echo 
 rm setup
 rm onlinehacking-pubg
-mv kali-setup setup 
-mv linux-onlinehacking onlinehacking-pubg
+mv setup 
+mv onlinehacking-pubg
 cp -R phs /usr/bin
 cp -R linux-onlinehacking /usr/bin
 ###########XXXXXXXXXXXXX####################
