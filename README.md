@@ -1,4 +1,4 @@
-# SayCheese v1.0
+# PUBG-PHISING v1.0
 <p align="center">
 
 <a href="https://github.com/WHITE-HAT786/saycheese.git"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
@@ -16,8 +16,7 @@
 </p>
 
 <p align="center">
-
-<img title="Saycheese"><img src="https://i.ibb.co/qYcKm14/White.jpg" alt="White" border="0"></a>
+<img src="https://i.ibb.co/MRKpZXJ/images-2021-03-02-T210907-691.jpg" alt="images-2021-03-02-T210907-691" border="0"></a>
 
 </p>
 
