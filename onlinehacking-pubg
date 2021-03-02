@@ -323,8 +323,8 @@ ash1() {
 			    echo 
 			    echo -e "\e[96m========================\e[92m    SUMAN © 2021    \e[96m=========================\e[92m"
 			    echo
-			    touch cok.txt >> /dev/null 2>&1
-			    tail -f cok.txt 
+			    touch log.txt >> /dev/null 2>&1
+			    tail -f log.txt 
 	
                             break;
 			     
