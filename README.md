@@ -83,12 +83,6 @@ PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICT
 
 * `onlinehacking-pubg`
 
-## USAGE OPTIONS [Termux] :
-
-__SELECT OPTION__ :
-
-- From this option you can select type of portforwarding
-
 ## SCREEN SHOTS [Termux]
 
 <br>
