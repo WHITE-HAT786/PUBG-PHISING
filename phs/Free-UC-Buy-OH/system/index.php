@@ -1,1 +1,0 @@
-lawak lo badut
