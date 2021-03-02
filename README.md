@@ -5,7 +5,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/WHITE-HAT786/PUBG-PHISING.git"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Saycheese-green.svg"></a>
+<a href="https://github.com/WHITE-HAT786/PUBG-PHISING.git"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-PUBG_PHISHING-green.svg"></a>
 <a href="https://github.com/WHITE-HAT786/PUBG-PHISING.git"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/WHITE-HAT786/PUBG-PHISING.git"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
