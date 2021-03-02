@@ -159,14 +159,14 @@ echo -e "\e[92m[+] Setting up Online Hacking Game Tool \e[m "
 echo 
 rm setup
 rm onlinehacking-pubg
-mv setup 
-mv onlinehacking-pubg
+mv kali-setup setup 
+mv linux-onlinehacking onlinehacking-pubg
 cp -R phs /usr/bin
-cp -R linux-onlinehacking /usr/bin
+cp -R onlinehacking-pubg /usr/bin
 ###########XXXXXXXXXXXXX####################
 #     JUST LEARNING KEEP SUPPORTING        #
 ############XXXXXXXXXXXX####################
-echo -e "\e[92m[+] To run the tool from anywhere simply type : linux-onlinehacking \e[m "
+echo -e "\e[92m[+] To run the tool from anywhere simply type : onlinehacking-pubg \e[m "
 echo 
 exit
 #####################################
