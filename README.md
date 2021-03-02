@@ -83,36 +83,6 @@ PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICT
 
 * `onlinehacking-pubg`
 
-```
-
-to see captured images >>>
-
-```
-
-```
-
-ls
-
-mv (image name with .png) /sdcard
-
-```
-
-```
-
-Now go and chek your gallery for victim image...
-
-```
-
-```
-
-[+]--Now you need internet connection to continue further process...
-
-[+]--You can select any option by clicking on your keyboard
-
-[+]--Note:- Don't delete any of the scripts included in Saycheese files
-
-```
-
 ## USAGE OPTIONS [Termux] :
 
 __SELECT OPTION__ :
