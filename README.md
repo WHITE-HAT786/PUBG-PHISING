@@ -1,13 +1,13 @@
 # PUBG-PHISING v1.0
 <p align="center">
-<a href="https://github.com/WHITE-HAT786/saycheese.git"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://github.com/WHITE-HAT786/PUBG-PHISING.git"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
 </p>
 <p align="center">
-<a href="https://github.com/WHITE-HAT786/saycheese/blob/main/README.md"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Saycheese-green.svg"></a>
-<a href="https://github.com/WHITE-HAT786/saycheese/blob/main/README.md"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<a href="https://github.com/WHITE-HAT786/saycheese/blob/main/README.md"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://github.com/WHITE-HAT786/PUBG-PHISING.git"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Saycheese-green.svg"></a>
+<a href="https://github.com/WHITE-HAT786/PUBG-PHISING.git"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://github.com/WHITE-HAT786/PUBG-PHISING.git"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
 <p align="center">
