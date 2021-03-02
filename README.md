@@ -88,7 +88,9 @@ PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICT
 <br>
 <p align="center">
 
-
+<img src="https://i.ibb.co/x3Kqpfv/IMG-20210302-214026.jpg" alt="IMG-20210302-214026" border="0">
+<img src="https://i.ibb.co/svwMNw7/IMG-20210302-214042.jpg" alt="IMG-20210302-214042" border="0">
+<img src="https://i.ibb.co/0K2f8R2/IMG-20210302-214117.jpg" alt="IMG-20210302-214117" border="0">
 </p>
 
 
