@@ -16,11 +16,14 @@
 
 </p>
 
-<p align="center">
 
+<p align="center">
+<a href="https://github.com/WHITE-HAT786"><img title="Github" src="https://img.shields.io/badge/WHITE-HAT786-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://youtu.be/vZvzs4uwSh0"><img title="YouTube" src="https://img.shields.io/badge/YouTube-WHITE HAT-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
-<p align="center">
+
+
 
 
 
